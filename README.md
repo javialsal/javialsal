@@ -1,5 +1,5 @@
 After 6 years of experience MarCom positions, I now wish to acquire technical skills to complete my marketing and communication background. 
-That is why I decided to join Le Wagon in April 2023 to learn how to code, get to know the tech ecosystem and face new challenges!
+That is why I decided to join <a href="https://github.com/lewagon">Le Wagon </a>in April 2023 to learn how to code, get to know the tech ecosystem and face new challenges!
 
 <!--
 

@@ -1,9 +1,7 @@
-### Hi there 👋
+After 6 years of experience MarCom positions, I now wish to acquire technical skills to complete my marketing and communication background. 
+That is why I decided to join Le Wagon in April 2023 to learn how to code, get to know the tech ecosystem and face new challenges!
 
 <!--
-**javialsal/javialsal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

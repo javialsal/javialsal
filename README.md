@@ -1,4 +1,4 @@
-## Hey 👋, I'm Javier!
+## Hola 👋, I'm Javier!
 
 <img align="left" alt="GIF" src="https://raw.githubusercontent.com/javialsal/javialsal/main/techstack.gif" width="200px"/>
 <br>

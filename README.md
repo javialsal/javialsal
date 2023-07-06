@@ -38,4 +38,4 @@ That is why I decided to join <strong><a href="https://github.com/lewagon">Le Wa
 &nbsp;
 [<img src="https://img.shields.io/badge/Slack-282C34?logo=slack&logoColor=4A154B" alt="Slack logo" title="Slack" height="25" />][tech_tools_anchor]
 
-[tech_tools_anchor]: #bonjour--
+[tech_tools_anchor]: #hola--

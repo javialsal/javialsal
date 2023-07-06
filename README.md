@@ -7,6 +7,8 @@ That is why I decided to join <strong><a href="https://github.com/lewagon">Le Wa
 <br>
 <br>
 <li> 🔭 I’m currently looking for a team to keep learning and contribute on making internet a cooler and better place.</li>
+<br>
+<br>
 
 ## 🛠  Technologies and tools
 

@@ -11,7 +11,7 @@ That is why I decided to join <strong><a href="https://github.com/lewagon">Le Wa
 <br>
 <br>
 
-## 🛠  Technologies and tools
+## 🛠  Tools
 
 [<img src="https://img.shields.io/badge/Ruby-282C34?logo=ruby&logoColor=CC342D" alt="Ruby logo" title="Ruby" height="25" />][tech_tools_anchor]
 &nbsp;

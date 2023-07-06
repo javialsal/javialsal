@@ -10,7 +10,7 @@ That is why I decided to join <strong><a href="https://github.com/lewagon">Le Wa
 <br>
 <br>
 
-## 🛠  Tools
+## 🛠  Technologies and tools
 
 [<img src="https://img.shields.io/badge/Ruby-282C34?logo=ruby&logoColor=CC342D" alt="Ruby logo" title="Ruby" height="25" />]
 &nbsp;
@@ -39,5 +39,3 @@ That is why I decided to join <strong><a href="https://github.com/lewagon">Le Wa
 [<img src="https://img.shields.io/badge/Slack-282C34?logo=slack&logoColor=4A154B" alt="Slack logo" title="Slack" height="25" />]
 
 [tech_tools_anchor]: #bonjour--
-[learning_now_anchor]: #learning-now
-[learning_next_anchor]: #learning-next

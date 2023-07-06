@@ -34,7 +34,7 @@ That is why I decided to join <strong><a href="https://github.com/lewagon">Le Wa
 
 ## 🔍  Where to find me
 
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />][tech_tools_anchor](https://www.linkedin.com/in/javialsal)
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/javialsal)
 &nbsp;
 [<img src="https://img.shields.io/badge/Slack-282C34?logo=slack&logoColor=4A154B" alt="Slack logo" title="Slack" height="25" />][tech_tools_anchor]
 

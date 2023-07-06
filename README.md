@@ -10,9 +10,9 @@ That is why I decided to join <strong><a href="https://github.com/lewagon">Le Wa
 
 ## 🛠  Technologies and tools
 
-[<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby logo" title="Ruby" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Ruby-282C34?style=for-the-badge&logo=ruby&logoColor=CC342D" alt="Ruby logo" title="Ruby" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails logo" title="Ruby on Rails" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Ruby_on_Rails-282C34?style=for-the-badge&logo=ruby-on-rails&logoColor=CC0000" alt="Ruby on Rails logo" title="Ruby on Rails" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -24,9 +24,9 @@ That is why I decided to join <strong><a href="https://github.com/lewagon">Le Wa
 &nbsp;
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku logo" title="Heroku" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Heroku-282C34?style=for-the-badge&logo=heroku&logoColor=430098" alt="Heroku logo" title="Heroku" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Bootstrap-282C34?style=for-the-badge&logo=bootstrap&logoColor=563D7C" alt="Bootstrap logo" title="Bootstrap" height="25" />][tech_tools_anchor]
 
 ## 🔍  Where to find me
 

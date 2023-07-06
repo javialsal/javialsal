@@ -29,10 +29,13 @@ That is why I decided to join <strong><a href="https://github.com/lewagon">Le Wa
 [<img src="https://img.shields.io/badge/Heroku-282C34?logo=heroku&logoColor=430098" alt="Heroku logo" title="Heroku" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=563D7C" alt="Bootstrap logo" title="Bootstrap" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=316192" alt="Postgresql logo" title="Postgresql" height="25" />][tech_tools_anchor]
 
 ## 🔍  Where to find me
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/javialsal)
-
+&nbsp;
+[<img src="https://img.shields.io/badge/Slack-282C34?logoColor=4A154B" alt="Slack logo" title="Slack" height="25" />]
 
 [tech_tools_anchor]: #bonjour--

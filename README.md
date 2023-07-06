@@ -1,4 +1,4 @@
-# Hola 👋, I'm Javier!
+## Hola 👋, I'm Javier!
 
 <img align="left" alt="GIF" src="https://raw.githubusercontent.com/javialsal/javialsal/main/techstack.gif" width="200px"/>
 <br>
@@ -38,4 +38,4 @@ That is why I decided to join <strong><a href="https://github.com/lewagon">Le Wa
 &nbsp;
 [<img src="https://img.shields.io/badge/Slack-282C34?logo=slack&logoColor=4A154B" alt="Slack logo" title="Slack" height="25" />][tech_tools_anchor]
 
-[tech_tools_anchor]: #hola--
+[tech_tools_anchor]: ##hola--

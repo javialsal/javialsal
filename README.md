@@ -13,7 +13,7 @@ That is why I decided to join <strong><a href="https://github.com/lewagon">Le Wa
 
 ## 🛠  Tools
 
-[<img src="https://img.shields.io/badge/Ruby-282C34?logo=ruby&logoColor=CC342D" alt="Ruby logo" title="Ruby" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Ruby-36474F?logo=ruby&logoColor=CC342D" alt="Ruby logo" title="Ruby" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Ruby_on_Rails-282C34?logo=ruby-on-rails&logoColor=CC0000" alt="Ruby on Rails logo" title="Ruby on Rails" height="25" />][tech_tools_anchor]
 &nbsp;

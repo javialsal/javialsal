@@ -10,6 +10,7 @@ That is why I decided to join <strong><a href="https://github.com/lewagon">Le Wa
 🔭 I am looking for a team to continue learning and growing as a developer.
 <br>
 <br>
+<br>
 
 ## 🛠  Tools
 
